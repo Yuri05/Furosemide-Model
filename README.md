@@ -2,10 +2,20 @@
 Mechanistic PBPK model of furosemide (clinical OAT substrate)
  
 ### Repository files
-Within this repository, we share a whole-body PBPK model of furosemide. The model was developed using data of 42 clinical studies (dosing range 1–80 mg), and qualified for DDI prediction with the OAT perpetrator drug probenecid.For further details and documentation please refer to [[1](#reference)].
+Within this repository, we share a whole-body PBPK model of furosemide. The model was developed using data of 42 clinical studies (dosing range 1–80 mg), and qualified for DDI prediction with the OAT perpetrator drug probenecid. 
+
+The PK-Sim project file contains simulations and the observed data of all clinical studies used for model development and evaluation. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [[1](#reference)].
  
 ### Version information
 PK-Sim Version 8.0.
+
+### Code of conduct
+
+Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology code of conduct.
+
+### Contribution
+
+We encourage contribution to the Open Systems Pharmacology community. Before getting started please read the contribution guidelines. If you are contributing code, please be familiar with the coding standard.
  
 ### License
 The model is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE). 
