@@ -1,0 +1,5131 @@
+{
+  "SimulationMappings": [
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 0.5 mgkg (bolus)_Alván 1988_1",
+      "Path": "Furosemide/i.v. 0.5 mgkg (bolus)_Alván 1988_1",
+      "SimulationFile": "i.v. 0.5 mgkg (bolus)_Alván 1988_1"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 20 mg (bolus)_Haegeli 2007_33+34",
+      "Path": "Furosemide/i.v. 20 mg (bolus)_Haegeli 2007_33+34",
+      "SimulationFile": "i.v. 20 mg (bolus)_Haegeli 2007_33+34"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 20 mg (bolus)_Rosenkranz 1992_66",
+      "Path": "Furosemide/i.v. 20 mg (bolus)_Rosenkranz 1992_66",
+      "SimulationFile": "i.v. 20 mg (bolus)_Rosenkranz 1992_66"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 22 mg (bolus)_Tilstone 1978_83",
+      "Path": "Furosemide/i.v. 22 mg (bolus)_Tilstone 1978_83",
+      "SimulationFile": "i.v. 22 mg (bolus)_Tilstone 1978_83"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (2 min)_Waller 1982_97",
+      "Path": "Furosemide/i.v. 40 mg (2 min)_Waller 1982_97",
+      "SimulationFile": "i.v. 40 mg (2 min)_Waller 1982_97"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (3 min)_Smith 1980_78+79",
+      "Path": "Furosemide/i.v. 40 mg (3 min)_Smith 1980_78+79",
+      "SimulationFile": "i.v. 40 mg (3 min)_Smith 1980_78+79"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Andreasen 1977_9+10",
+      "Path": "Furosemide/i.v. 40 mg (bolus)_Andreasen 1977_9+10",
+      "SimulationFile": "i.v. 40 mg (bolus)_Andreasen 1977_9+10"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_González 1982_32",
+      "Path": "Furosemide/i.v. 40 mg (bolus)_González 1982_32",
+      "SimulationFile": "i.v. 40 mg (bolus)_González 1982_32"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40",
+      "Path": "Furosemide/i.v. 40 mg (bolus)_Hammarlund 1984_39+40",
+      "SimulationFile": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Homeida 1977_47",
+      "Path": "Furosemide/i.v. 40 mg (bolus)_Homeida 1977_47",
+      "SimulationFile": "i.v. 40 mg (bolus)_Homeida 1977_47"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Keller 1981_52+53",
+      "Path": "Furosemide/i.v. 40 mg (bolus)_Keller 1981_52+53",
+      "SimulationFile": "i.v. 40 mg (bolus)_Keller 1981_52+53"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Lambert 1983_58",
+      "Path": "Furosemide/i.v. 40 mg (bolus)_Lambert 1983_58",
+      "SimulationFile": "i.v. 40 mg (bolus)_Lambert 1983_58"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (2 min)_Andreasen 1981_4",
+      "Path": "Furosemide/i.v. 80 mg (2 min)_Andreasen 1981_4",
+      "SimulationFile": "i.v. 80 mg (2 min)_Andreasen 1981_4"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (2 min)_Andreasen 1983_7+8",
+      "Path": "Furosemide/i.v. 80 mg (2 min)_Andreasen 1983_7+8",
+      "SimulationFile": "i.v. 80 mg (2 min)_Andreasen 1983_7+8"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Branch 1977_21+22",
+      "Path": "Furosemide/i.v. 80 mg (bolus)_Branch 1977_21+22",
+      "SimulationFile": "i.v. 80 mg (bolus)_Branch 1977_21+22"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Kelly 1974_57",
+      "Path": "Furosemide/i.v. 80 mg (bolus)_Kelly 1974_57",
+      "SimulationFile": "i.v. 80 mg (bolus)_Kelly 1974_57"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Rane 1978_65",
+      "Path": "Furosemide/i.v. 80 mg (bolus)_Rane 1978_65",
+      "SimulationFile": "i.v. 80 mg (bolus)_Rane 1978_65"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Rupp 1974_67",
+      "Path": "Furosemide/i.v. 40 mg (bolus)_Rupp 1974_67",
+      "SimulationFile": "i.v. 40 mg (bolus)_Rupp 1974_67"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91",
+      "Path": "Furosemide/i.v. 80 mg (bolus)_Verbeeck 1982_90+91",
+      "SimulationFile": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89",
+      "Path": "Furosemide/p.o., 20 mg (-) q.d._Vaidyanathan 2008_89",
+      "SimulationFile": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20 mg (tab) q.d._FDA 2006_49",
+      "Path": "Furosemide/p.o., 20 mg (tab) q.d._FDA 2006_49",
+      "SimulationFile": "p.o., 20 mg (tab) q.d._FDA 2006_49"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab) q.d._FDA 2005_48",
+      "Path": "Furosemide/p.o., 40 mg (tab) q.d._FDA 2005_48",
+      "SimulationFile": "p.o., 40 mg (tab) q.d._FDA 2005_48"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 1  mg (sol)_Stopfer 2018_341+342",
+      "Path": "Furosemide/p.o., 1  mg (sol)_Stopfer 2018_341+342",
+      "SimulationFile": "p.o., 1  mg (sol)_Stopfer 2018_341+342"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20  mg (sol)_Waller 1985_100+101",
+      "Path": "Furosemide/p.o., 20  mg (sol)_Waller 1985_100+101",
+      "SimulationFile": "p.o., 20  mg (sol)_Waller 1985_100+101"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40  mg (sol)_Waller 1985_102+103",
+      "Path": "Furosemide/p.o., 40  mg (sol)_Waller 1985_102+103",
+      "SimulationFile": "p.o., 40  mg (sol)_Waller 1985_102+103"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40  mg (sol)_Waller 1988_533+534",
+      "Path": "Furosemide/p.o., 40  mg (sol)_Waller 1988_533+534",
+      "SimulationFile": "p.o., 40  mg (sol)_Waller 1988_533+534"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (sol)_Waller 1982_99",
+      "Path": "Furosemide/p.o., 40 mg (sol)_Waller 1982_99",
+      "SimulationFile": "p.o., 40 mg (sol)_Waller 1982_99"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 44  mg (sol)_Tilstone 1978_84",
+      "Path": "Furosemide/p.o., 44  mg (sol)_Tilstone 1978_84",
+      "SimulationFile": "p.o., 44  mg (sol)_Tilstone 1978_84"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 5  mg (sol)_Stopfer 2016_167+168",
+      "Path": "Furosemide/p.o., 5  mg (sol)_Stopfer 2016_167+168",
+      "SimulationFile": "p.o., 5  mg (sol)_Stopfer 2016_167+168"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80  mg (sol)_Kelly 1974_54",
+      "Path": "Furosemide/p.o., 80  mg (sol)_Kelly 1974_54",
+      "SimulationFile": "p.o., 80  mg (sol)_Kelly 1974_54"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80  mg (sol)_Waller 1985_104+105",
+      "Path": "Furosemide/p.o., 80  mg (sol)_Waller 1985_104+105",
+      "SimulationFile": "p.o., 80  mg (sol)_Waller 1985_104+105"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20 mg (tab)_Haegeli 2007_35+36",
+      "Path": "Furosemide/p.o., 20 mg (tab)_Haegeli 2007_35+36",
+      "SimulationFile": "p.o., 20 mg (tab)_Haegeli 2007_35+36"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Ballester 2015_13+14",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Ballester 2015_13+14",
+      "SimulationFile": "p.o., 40 mg (tab)_Ballester 2015_13+14"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Bindschedler 1997_19+20",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Bindschedler 1997_19+20",
+      "SimulationFile": "p.o., 40 mg (tab)_Bindschedler 1997_19+20"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Hammarlund 1984_41+42",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Hammarlund 1984_41+42",
+      "SimulationFile": "p.o., 40 mg (tab)_Hammarlund 1984_41+42"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60",
+      "SimulationFile": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62",
+      "SimulationFile": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Rakhit 1987_63+64",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Rakhit 1987_63+64",
+      "SimulationFile": "p.o., 40 mg (tab)_Rakhit 1987_63+64"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Rupp 1974_68",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Rupp 1974_68",
+      "SimulationFile": "p.o., 40 mg (tab)_Rupp 1974_68"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80 mg (tab)_Kelly 1974_56",
+      "Path": "Furosemide/p.o., 80 mg (tab)_Kelly 1974_56",
+      "SimulationFile": "p.o., 80 mg (tab)_Kelly 1974_56"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80 mg (tab)_Shoaf 2007_74+75",
+      "Path": "Furosemide/p.o., 80 mg (tab)_Shoaf 2007_74+75",
+      "SimulationFile": "p.o., 80 mg (tab)_Shoaf 2007_74+75"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Waller 1982_98",
+      "Path": "Furosemide/p.o., 40 mg (tab)_Waller 1982_98",
+      "SimulationFile": "p.o., 40 mg (tab)_Waller 1982_98"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80 mg (tab)_Vree 1995_95+96",
+      "Path": "Furosemide/p.o., 80 mg (tab)_Vree 1995_95+96",
+      "SimulationFile": "p.o., 80 mg (tab)_Vree 1995_95+96"
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40  mg (sol)_Wiebe 2020_521+522",
+      "Path": "Furosemide/p.o., 40  mg (sol)_Wiebe 2020_521+522",
+      "SimulationFile": "p.o., 40  mg (sol)_Wiebe 2020_521+522"
+    }
+  ],
+  "ObservedDataMappings": [
+    {
+      "Id": "Andreasen 1983_80_i.v._7",
+      "Path": "ObservedData/Andreasen 1983_80_i.v._7.csv"
+    },
+    {
+      "Id": "Andreasen 1977_40_i.v._9",
+      "Path": "ObservedData/Andreasen 1977_40_i.v._9.csv"
+    },
+    {
+      "Id": "Ballester 2015_40_p.o._13",
+      "Path": "ObservedData/Ballester 2015_40_p.o._13.csv"
+    },
+    {
+      "Id": "Bindschedler 1997_40_p.o._19",
+      "Path": "ObservedData/Bindschedler 1997_40_p.o._19.csv"
+    },
+    {
+      "Id": "Branch 1977_80_i.v._21",
+      "Path": "ObservedData/Branch 1977_80_i.v._21.csv"
+    },
+    {
+      "Id": "González 1982_40_i.v._32",
+      "Path": "ObservedData/González 1982_40_i.v._32.csv"
+    },
+    {
+      "Id": "Haegeli 2007_20_i.v._33",
+      "Path": "ObservedData/Haegeli 2007_20_i.v._33.csv"
+    },
+    {
+      "Id": "Haegeli 2007_20_p.o._35",
+      "Path": "ObservedData/Haegeli 2007_20_p.o._35.csv"
+    },
+    {
+      "Id": "Hammarlund 1984_40_i.v._39",
+      "Path": "ObservedData/Hammarlund 1984_40_i.v._39.csv"
+    },
+    {
+      "Id": "Hammarlund 1984_40_p.o._41",
+      "Path": "ObservedData/Hammarlund 1984_40_p.o._41.csv"
+    },
+    {
+      "Id": "Homeida 1977_40_i.v._47",
+      "Path": "ObservedData/Homeida 1977_40_i.v._47.csv"
+    },
+    {
+      "Id": "FDA 2005 _40_p.o._48",
+      "Path": "ObservedData/FDA 2005 _40_p.o._48.csv"
+    },
+    {
+      "Id": "FDA 2006_20_p.o._49",
+      "Path": "ObservedData/FDA 2006_20_p.o._49.csv"
+    },
+    {
+      "Id": "Keller 1981_40_i.v._52",
+      "Path": "ObservedData/Keller 1981_40_i.v._52.csv"
+    },
+    {
+      "Id": "Kelly 1974_80_p.o._54_solution",
+      "Path": "ObservedData/Kelly 1974_80_p.o._54_solution.csv"
+    },
+    {
+      "Id": "Kelly 1974_80_p.o._56_tablet",
+      "Path": "ObservedData/Kelly 1974_80_p.o._56_tablet.csv"
+    },
+    {
+      "Id": "Kelly 1974_80_i.v._57",
+      "Path": "ObservedData/Kelly 1974_80_i.v._57.csv"
+    },
+    {
+      "Id": "Lambert 1986_40_i.v._58",
+      "Path": "ObservedData/Lambert 1986_40_i.v._58.csv"
+    },
+    {
+      "Id": "Martin 1984 - brand-name tablet_39.6_p.o._59",
+      "Path": "ObservedData/Martin 1984 - brand-name tablet_39.6_p.o._59.csv"
+    },
+    {
+      "Id": "Martin 1984 - generic tablet_40.3_p.o._61",
+      "Path": "ObservedData/Martin 1984 - generic tablet_40.3_p.o._61.csv"
+    },
+    {
+      "Id": "Rakhit 1987_40_p.o._63",
+      "Path": "ObservedData/Rakhit 1987_40_p.o._63.csv"
+    },
+    {
+      "Id": "Rane 1978_80_i.v._65",
+      "Path": "ObservedData/Rane 1978_80_i.v._65.csv"
+    },
+    {
+      "Id": "Rosenkranz 1992_20_i.v._66",
+      "Path": "ObservedData/Rosenkranz 1992_20_i.v._66.csv"
+    },
+    {
+      "Id": "Rupp 1974_40_i.v._67",
+      "Path": "ObservedData/Rupp 1974_40_i.v._67.csv"
+    },
+    {
+      "Id": "Rupp 1974_40_p.o._68",
+      "Path": "ObservedData/Rupp 1974_40_p.o._68.csv"
+    },
+    {
+      "Id": "Shoaf 2007_80_p.o._74",
+      "Path": "ObservedData/Shoaf 2007_80_p.o._74.csv"
+    },
+    {
+      "Id": "Smith 1980a_40_i.v._78",
+      "Path": "ObservedData/Smith 1980a_40_i.v._78.csv"
+    },
+    {
+      "Id": "Tilstone 1978_22_i.v._83",
+      "Path": "ObservedData/Tilstone 1978_22_i.v._83.csv"
+    },
+    {
+      "Id": "Tilstone 1978_44_p.o._84",
+      "Path": "ObservedData/Tilstone 1978_44_p.o._84.csv"
+    },
+    {
+      "Id": "Vaidyanathan 2008_20_p.o._89",
+      "Path": "ObservedData/Vaidyanathan 2008_20_p.o._89.csv"
+    },
+    {
+      "Id": "Verbeeck 1982_80_i.v._90",
+      "Path": "ObservedData/Verbeeck 1982_80_i.v._90.csv"
+    },
+    {
+      "Id": "Vree 1995_80_p.o._95",
+      "Path": "ObservedData/Vree 1995_80_p.o._95.csv"
+    },
+    {
+      "Id": "Waller 1982_40_i.v._97",
+      "Path": "ObservedData/Waller 1982_40_i.v._97.csv"
+    },
+    {
+      "Id": "Waller 1982_40_p.o._98",
+      "Path": "ObservedData/Waller 1982_40_p.o._98.csv"
+    },
+    {
+      "Id": "Waller 1982_40_p.o._99",
+      "Path": "ObservedData/Waller 1982_40_p.o._99.csv"
+    },
+    {
+      "Id": "Waller 1985_20_p.o._100",
+      "Path": "ObservedData/Waller 1985_20_p.o._100.csv"
+    },
+    {
+      "Id": "Waller 1985_40_p.o._102",
+      "Path": "ObservedData/Waller 1985_40_p.o._102.csv"
+    },
+    {
+      "Id": "Waller 1985_80_p.o._104",
+      "Path": "ObservedData/Waller 1985_80_p.o._104.csv"
+    },
+    {
+      "Id": "Alván 1988_0.5 mg/kg_i.v._1",
+      "Path": "ObservedData/Alván 1988_0.5 mg_kg_i.v._1.csv"
+    },
+    {
+      "Id": "Andreasen 1981_80_i.v._4",
+      "Path": "ObservedData/Andreasen 1981_80_i.v._4.csv"
+    },
+    {
+      "Id": "Andreasen 1983_80_i.v._8",
+      "Path": "ObservedData/Andreasen 1983_80_i.v._8.csv"
+    },
+    {
+      "Id": "Andreasen 1977_40_i.v._10",
+      "Path": "ObservedData/Andreasen 1977_40_i.v._10.csv"
+    },
+    {
+      "Id": "Ballester 2015_40_p.o._14",
+      "Path": "ObservedData/Ballester 2015_40_p.o._14.csv"
+    },
+    {
+      "Id": "Bindschedler 1997_40_p.o._20",
+      "Path": "ObservedData/Bindschedler 1997_40_p.o._20.csv"
+    },
+    {
+      "Id": "Branch 1977_80_i.v._22",
+      "Path": "ObservedData/Branch 1977_80_i.v._22.csv"
+    },
+    {
+      "Id": "Haegeli 2007_20_i.v._34",
+      "Path": "ObservedData/Haegeli 2007_20_i.v._34.csv"
+    },
+    {
+      "Id": "Haegeli 2007_20_p.o._36",
+      "Path": "ObservedData/Haegeli 2007_20_p.o._36.csv"
+    },
+    {
+      "Id": "Hammarlund 1984_40_i.v._40",
+      "Path": "ObservedData/Hammarlund 1984_40_i.v._40.csv"
+    },
+    {
+      "Id": "Hammarlund 1984_40_p.o._42",
+      "Path": "ObservedData/Hammarlund 1984_40_p.o._42.csv"
+    },
+    {
+      "Id": "Keller 1981_40_i.v._53",
+      "Path": "ObservedData/Keller 1981_40_i.v._53.csv"
+    },
+    {
+      "Id": "Martin 1984 - brand-name tablet_39.6_p.o._60",
+      "Path": "ObservedData/Martin 1984 - brand-name tablet_39.6_p.o._60.csv"
+    },
+    {
+      "Id": "Martin 1984 - generic tablet_40.3_p.o._62",
+      "Path": "ObservedData/Martin 1984 - generic tablet_40.3_p.o._62.csv"
+    },
+    {
+      "Id": "Rakhit 1987_40_p.o._64",
+      "Path": "ObservedData/Rakhit 1987_40_p.o._64.csv"
+    },
+    {
+      "Id": "Shoaf 2007_80_p.o._75",
+      "Path": "ObservedData/Shoaf 2007_80_p.o._75.csv"
+    },
+    {
+      "Id": "Smith 1980a_40_i.v._79",
+      "Path": "ObservedData/Smith 1980a_40_i.v._79.csv"
+    },
+    {
+      "Id": "Smith 1980b_40_i.v._82",
+      "Path": "ObservedData/Smith 1980b_40_i.v._82.csv"
+    },
+    {
+      "Id": "Verbeeck 1982_80_i.v._91",
+      "Path": "ObservedData/Verbeeck 1982_80_i.v._91.csv"
+    },
+    {
+      "Id": "Vree 1995_80_p.o._96",
+      "Path": "ObservedData/Vree 1995_80_p.o._96.csv"
+    },
+    {
+      "Id": "Waller 1985_20_p.o._101",
+      "Path": "ObservedData/Waller 1985_20_p.o._101.csv"
+    },
+    {
+      "Id": "Waller 1985_40_p.o._103",
+      "Path": "ObservedData/Waller 1985_40_p.o._103.csv"
+    },
+    {
+      "Id": "Waller 1985_80_p.o._105",
+      "Path": "ObservedData/Waller 1985_80_p.o._105.csv"
+    },
+    {
+      "Id": "Stopfer 2016 - reference - Mean_5_p.o._168",
+      "Path": "ObservedData/Stopfer 2016 - reference - Mean_5_p.o._168.csv"
+    },
+    {
+      "Id": "Stopfer 2018 - reference - Mean_1_p.o._341",
+      "Path": "ObservedData/Stopfer 2018 - reference - Mean_1_p.o._341.csv"
+    },
+    {
+      "Id": "Stopfer 2018 - reference - Mean_1_p.o._342",
+      "Path": "ObservedData/Stopfer 2018 - reference - Mean_1_p.o._342.csv"
+    },
+    {
+      "Id": "Stopfer 2016 - reference - Mean_5_p.o._167",
+      "Path": "ObservedData/Stopfer 2016 - reference - Mean_5_p.o._167.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - 40 mg - Mean_40_p.o._522",
+      "Path": "ObservedData/Wiebe 2020 - 40 mg - Mean_40_p.o._522.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - 40 mg - Mean_40_p.o._521",
+      "Path": "ObservedData/Wiebe 2020 - 40 mg - Mean_40_p.o._521.csv"
+    },
+    {
+      "Id": "Waller 1988_Furosemide_40_p.o._533",
+      "Path": "ObservedData/Waller 1988_Furosemide_40_p.o._533.csv"
+    },
+    {
+      "Id": "Waller 1988_Furosemide_40_p.o._534",
+      "Path": "ObservedData/Waller 1988_Furosemide_40_p.o._534.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - cocktail - control_Furosemide_1_p.o._1005_Plasma",
+      "Path": "ObservedData/Wiebe 2020 - cocktail - control_Furosemide_1_p.o._1005_Plasma.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - therapeutic dose - control_Furosemide_40_p.o._1006_Plasma",
+      "Path": "ObservedData/Wiebe 2020 - therapeutic dose - control_Furosemide_40_p.o._1006_Plasma.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - cocktail - with probenecid_Furosemide_1_p.o._2005_Plasma",
+      "Path": "ObservedData/Wiebe 2020 - cocktail - with probenecid_Furosemide_1_p.o._2005_Plasma.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - therapeutic dose - with probenecid_Furosemide_40_p.o._2006_Plasma",
+      "Path": "ObservedData/Wiebe 2020 - therapeutic dose - with probenecid_Furosemide_40_p.o._2006_Plasma.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - cocktail - control_Furosemide_1_p.o._3005_Urine",
+      "Path": "ObservedData/Wiebe 2020 - cocktail - control_Furosemide_1_p.o._3005_Urine.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - therapeutic dose - control_Furosemide_40_p.o._3006_Urine",
+      "Path": "ObservedData/Wiebe 2020 - therapeutic dose - control_Furosemide_40_p.o._3006_Urine.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - cocktail - with probenecid_Furosemide_1_p.o._4005_Urine",
+      "Path": "ObservedData/Wiebe 2020 - cocktail - with probenecid_Furosemide_1_p.o._4005_Urine.csv"
+    },
+    {
+      "Id": "Wiebe 2020 - therapeutic dose - with probenecid_Furosemide_40_p.o._4006_Urine",
+      "Path": "ObservedData/Wiebe 2020 - therapeutic dose - with probenecid_Furosemide_40_p.o._4006_Urine.csv"
+    }
+  ],
+  "Plots": [
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 0.5 mgkg (bolus)_Alván 1988_1",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 0.5 mgkg (bolus)_Alván 1988_1-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 0.5 mgkg (bolus)_Alván 1988_1|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 0.5 mgkg (bolus)_Alván 1988_1-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 0.5 mgkg (bolus)_Alván 1988_1|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Alván 1988_0.5 mg/kg_i.v._1-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Alván 1988_0.5 mg/kg_i.v._1|Time ",
+            "Y": "Alván 1988_0.5 mg/kg_i.v._1|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "i.v. 0.5 mgkg (bolus)_Alván 1988_1-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 0.5 mgkg (bolus)_Alván 1988_1|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 0.5 mgkg (bolus)_Alván 1988_1\n2020-03-26 17:06"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 20 mg (bolus)_Haegeli 2007_33+34",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 20 mg (bolus)_Haegeli 2007_33+34-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 20 mg (bolus)_Haegeli 2007_33+34|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 20 mg (bolus)_Haegeli 2007_33+34-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 20 mg (bolus)_Haegeli 2007_33+34|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Haegeli 2007_20_i.v._33-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Haegeli 2007_20_i.v._33|Time ",
+            "Y": "Haegeli 2007_20_i.v._33|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Haegeli 2007_20_i.v._34-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Haegeli 2007_20_i.v._34|Time ",
+            "Y": "Haegeli 2007_20_i.v._34|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "i.v. 20 mg (bolus)_Haegeli 2007_33+34-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 20 mg (bolus)_Haegeli 2007_33+34|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - i.v. (bolus), 20 mg",
+        "OriginText": "Furosemide_03.26.2020\ni.v. 20 mg (bolus)_Haegeli 2007_33+34\n2020-03-26 17:07"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 20 mg (bolus)_Rosenkranz 1992_66",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 20 mg (bolus)_Rosenkranz 1992_66-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 20 mg (bolus)_Rosenkranz 1992_66|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 20 mg (bolus)_Rosenkranz 1992_66-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 20 mg (bolus)_Rosenkranz 1992_66|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Rosenkranz 1992_20_i.v._66-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Rosenkranz 1992_20_i.v._66|Time ",
+            "Y": "Rosenkranz 1992_20_i.v._66|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - i.v. (bolus), 20 mg",
+        "OriginText": "Furosemide_03.26.2020\ni.v. 20 mg (bolus)_Rosenkranz 1992_66\n2020-03-26 16:03"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 22 mg (bolus)_Tilstone 1978_83",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 22 mg (bolus)_Tilstone 1978_83-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 22 mg (bolus)_Tilstone 1978_83|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 22 mg (bolus)_Tilstone 1978_83-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 22 mg (bolus)_Tilstone 1978_83|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Tilstone 1978_22_i.v._83-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Tilstone 1978_22_i.v._83|Time ",
+            "Y": "Tilstone 1978_22_i.v._83|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 22 mg (bolus)_Tilstone 1978_83\n2020-03-26 16:04"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (2 min)_Waller 1982_97",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (2 min)_Waller 1982_97-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (2 min)_Waller 1982_97|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (2 min)_Waller 1982_97-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (2 min)_Waller 1982_97|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (2 min)_Waller 1982_97-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 40 mg (2 min)_Waller 1982_97|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "Waller 1982_40_i.v._97-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Waller 1982_40_i.v._97|Time ",
+            "Y": "Waller 1982_40_i.v._97|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (2 min)_Waller 1982_97\n2020-03-26 16:04"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (3 min)_Smith 1980_78+79",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (3 min)_Smith 1980_78+79-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (3 min)_Smith 1980_78+79|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (3 min)_Smith 1980_78+79-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (3 min)_Smith 1980_78+79|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (3 min)_Smith 1980_78+79-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 40 mg (3 min)_Smith 1980_78+79|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "Smith 1980a_40_i.v._79-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Smith 1980a_40_i.v._79|Time ",
+            "Y": "Smith 1980a_40_i.v._79|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Smith 1980a_40_i.v._78-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Smith 1980a_40_i.v._78|Time ",
+            "Y": "Smith 1980a_40_i.v._78|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 7,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (3 min)_Smith 1980a_78+79\n2020-03-26 16:04"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Andreasen 1977_9+10",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (bolus)_Andreasen 1977_9+10-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Andreasen 1977_9+10|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_Andreasen 1977_9+10-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Andreasen 1977_9+10|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Andreasen 1977_40_i.v._9-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Andreasen 1977_40_i.v._9|Time ",
+            "Y": "Andreasen 1977_40_i.v._9|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Andreasen 1977_40_i.v._10-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Andreasen 1977_40_i.v._10|Time ",
+            "Y": "Andreasen 1977_40_i.v._10|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 7,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - i.v. (bolus), 40 mg",
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (bolus)_Andreasen 1977_9+10\n2020-03-26 16:05"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_González 1982_32",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (bolus)_González 1982_32-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_González 1982_32|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_González 1982_32-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_González 1982_32|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_González 1982_32-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_González 1982_32|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "González 1982_40_i.v._32-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "González 1982_40_i.v._32|Time ",
+            "Y": "González 1982_40_i.v._32|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (bolus)_González 1982_32\n2020-03-26 16:05"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Hammarlund 1984_40_i.v._39-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Hammarlund 1984_40_i.v._39|Time ",
+            "Y": "Hammarlund 1984_40_i.v._39|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 8,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Hammarlund 1984_40_i.v._40-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Hammarlund 1984_40_i.v._40|Time ",
+            "Y": "Hammarlund 1984_40_i.v._40|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 7,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (bolus)_Hammarlund 1984_39+40\n2020-03-26 16:06"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Homeida 1977_47",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (bolus)_Homeida 1977_47-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Homeida 1977_47|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_Homeida 1977_47-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Homeida 1977_47|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Homeida 1977_40_i.v._47-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Homeida 1977_40_i.v._47|Time ",
+            "Y": "Homeida 1977_40_i.v._47|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (bolus)_Homeida 1977_47\n2020-03-26 16:55"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Keller 1981_52+53",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (bolus)_Keller 1981_52+53-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Keller 1981_52+53|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_Keller 1981_52+53-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Keller 1981_52+53|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Keller 1981_40_i.v._52-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Keller 1981_40_i.v._52|Time ",
+            "Y": "Keller 1981_40_i.v._52|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Keller 1981_40_i.v._53-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Keller 1981_40_i.v._53|Time ",
+            "Y": "Keller 1981_40_i.v._53|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - i.v. (bolus), 40 mg",
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (bolus)_Keller 1981_52+53\n2020-03-26 16:55"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Lambert 1983_58",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (bolus)_Lambert 1983_58-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Lambert 1983_58|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_Lambert 1983_58-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Lambert 1983_58|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_Lambert 1983_58-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Lambert 1983_58|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "Lambert 1986_40_i.v._58-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Lambert 1986_40_i.v._58|Time ",
+            "Y": "Lambert 1986_40_i.v._58|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (bolus)_Lambert 1983_58\n2020-03-26 16:56"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (2 min)_Andreasen 1981_4",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 80 mg (2 min)_Andreasen 1981_4-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 80 mg (2 min)_Andreasen 1981_4|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (2 min)_Andreasen 1981_4-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 80 mg (2 min)_Andreasen 1981_4|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (2 min)_Andreasen 1981_4-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 80 mg (2 min)_Andreasen 1981_4|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "Andreasen 1981_80_i.v._4-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Andreasen 1981_80_i.v._4|Time ",
+            "Y": "Andreasen 1981_80_i.v._4|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 80 mg (2 min)_Andreasen 1981_4\n2020-03-26 16:58"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (2 min)_Andreasen 1983_7+8",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 80 mg (2 min)_Andreasen 1983_7+8-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 80 mg (2 min)_Andreasen 1983_7+8|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (2 min)_Andreasen 1983_7+8-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 80 mg (2 min)_Andreasen 1983_7+8|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (2 min)_Andreasen 1983_7+8-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 80 mg (2 min)_Andreasen 1983_7+8|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "Andreasen 1983_80_i.v._8-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Andreasen 1983_80_i.v._8|Time ",
+            "Y": "Andreasen 1983_80_i.v._8|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Andreasen 1983_80_i.v._7-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Andreasen 1983_80_i.v._7|Time ",
+            "Y": "Andreasen 1983_80_i.v._7|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 7,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 80 mg (2 min)_Andreasen 1983_7+8\n2020-03-26 16:59"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Branch 1977_21+22",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 80 mg (bolus)_Branch 1977_21+22-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Branch 1977_21+22|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (bolus)_Branch 1977_21+22-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Branch 1977_21+22|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Branch 1977_80_i.v._22-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Branch 1977_80_i.v._22|Time ",
+            "Y": "Branch 1977_80_i.v._22|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Branch 1977_80_i.v._21-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Branch 1977_80_i.v._21|Time ",
+            "Y": "Branch 1977_80_i.v._21|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - i.v. (bolus), 80 mg",
+        "OriginText": "Furosemide_03.16.2020\ni.v. 80 mg (bolus)_Branch 1977_21+22\n2020-03-17 07:41"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Kelly 1974_57",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 80 mg (bolus)_Kelly 1974_57-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Kelly 1974_57|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (bolus)_Kelly 1974_57-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Kelly 1974_57|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (bolus)_Kelly 1974_57-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Kelly 1974_57|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "Kelly 1974_80_i.v._57-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Kelly 1974_80_i.v._57|Time ",
+            "Y": "Kelly 1974_80_i.v._57|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 80 mg (bolus)_Kelly 1974_57\n2020-03-26 16:59"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Rane 1978_65",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 80 mg (bolus)_Rane 1978_65-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Rane 1978_65|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (bolus)_Rane 1978_65-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Rane 1978_65|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (bolus)_Rane 1978_65-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Rane 1978_65|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#804040",
+              "LegendIndex": 5,
+              "LineStyle": "Dot"
+            }
+          },
+          {
+            "Name": "Rane 1978_80_i.v._65-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Rane 1978_80_i.v._65|Time ",
+            "Y": "Rane 1978_80_i.v._65|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 6,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\ni.v. 80 mg (bolus)_Rane 1978_65\n2020-03-26 17:01"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 40 mg (bolus)_Rupp 1974_67",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 40 mg (bolus)_Rupp 1974_67-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Rupp 1974_67|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 40 mg (bolus)_Rupp 1974_67-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 40 mg (bolus)_Rupp 1974_67|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Rupp 1974_40_i.v._67-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Rupp 1974_40_i.v._67|Time ",
+            "Y": "Rupp 1974_40_i.v._67|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - i.v. (bolus), 40 mg",
+        "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (bolus)_Rupp 1974_67\n2020-03-26 16:57"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Verbeeck 1982_80_i.v._90-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Verbeeck 1982_80_i.v._90|Time ",
+            "Y": "Verbeeck 1982_80_i.v._90|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Verbeeck 1982_80_i.v._91-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Verbeeck 1982_80_i.v._91|Time ",
+            "Y": "Verbeeck 1982_80_i.v._91|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91-Furosemide-Lumen-Feces-Fraction excreted to feces",
+            "X": "Time",
+            "Y": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91|Organism|Lumen|Feces|Furosemide|Fraction excreted to feces",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Visible": false,
+              "VisibleInLegend": false,
+              "Color": "#0000FF",
+              "LegendIndex": 5,
+              "LineStyle": "Dash"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - i.v. (bolus), 80 mg",
+        "OriginText": "Furosemide_03.26.2020\ni.v. 80 mg (bolus)_Verbeeck 1982_90+91\n2020-03-26 17:01"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 68.48965,
+            "Max": 89.89872,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.006245593,
+            "Max": 2.300188,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.03624437,
+            "Max": 13.41219,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Vaidyanathan 2008_20_p.o._89-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Vaidyanathan 2008_20_p.o._89|Time ",
+            "Y": "Vaidyanathan 2008_20_p.o._89|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 20 mg (-) q.d._Vaidyanathan 2008_89\n2020-03-26 17:23"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20 mg (tab) q.d._FDA 2006_49",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 48.0,
+            "Max": 75.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 20 mg (tab) q.d._FDA 2006_49-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 20 mg (tab) q.d._FDA 2006_49|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 20 mg (tab) q.d._FDA 2006_49-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 20 mg (tab) q.d._FDA 2006_49|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "FDA 2006 - NDA 21-985_20_p.o._49-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "FDA 2006_20_p.o._49|Time ",
+            "Y": "FDA 2006_20_p.o._49|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (tab), 20 mg q.d.",
+        "OriginText": "Furosemide_03.26.2020\np.o., 20 mg (tab) q.d._FDA 2006 - NDA 21-985_49\n2020-03-26 17:24"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab) q.d._FDA 2005_48",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 240.0,
+            "Max": 254.0,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab) q.d._FDA 2005_48-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab) q.d._FDA 2005_48|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab) q.d._FDA 2005_48-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab) q.d._FDA 2005_48|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "FDA 2005 - NDA 21-742_40_p.o._48-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "FDA 2005 _40_p.o._48|Time ",
+            "Y": "FDA 2005 _40_p.o._48|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (tab), 40 mg q.d.",
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab) q.d._FDA 2005 - NDA 21-742_48\n2020-03-26 18:05"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 1  mg (sol)_Stopfer 2018_341+342",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 1  mg (sol)_Stopfer 2018_341+342-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 1  mg (sol)_Stopfer 2018_341+342|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 1  mg (sol)_Stopfer 2018_341+342-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 1  mg (sol)_Stopfer 2018_341+342|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "BI2096 - reference - Mean_1_p.o._342-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Stopfer 2018 - reference - Mean_1_p.o._342|Time ",
+            "Y": "Stopfer 2018 - reference - Mean_1_p.o._342|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "BI2096 - reference - Mean_1_p.o._341-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Stopfer 2018 - reference - Mean_1_p.o._341|Time ",
+            "Y": "Stopfer 2018 - reference - Mean_1_p.o._341|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (sol), 1 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 1  mg (sol)_BI2096_341+342_Mean_TrtB\n2020-03-26 17:11"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20  mg (sol)_Waller 1985_100+101",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 20  mg (sol)_Waller 1985_100+101-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 20  mg (sol)_Waller 1985_100+101|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 20  mg (sol)_Waller 1985_100+101-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 20  mg (sol)_Waller 1985_100+101|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Waller 1985_20_p.o._100-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Waller 1985_20_p.o._100|Time ",
+            "Y": "Waller 1985_20_p.o._100|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Waller 1985_20_p.o._101-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Waller 1985_20_p.o._101|Time ",
+            "Y": "Waller 1985_20_p.o._101|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (sol), 20 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 20  mg (sol)_Waller 1985_100+101\n2020-03-26 17:11"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40  mg (sol)_Waller 1985_102+103",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40  mg (sol)_Waller 1985_102+103-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40  mg (sol)_Waller 1985_102+103|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40  mg (sol)_Waller 1985_102+103-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40  mg (sol)_Waller 1985_102+103|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Waller 1985_40_p.o._102-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Waller 1985_40_p.o._102|Time ",
+            "Y": "Waller 1985_40_p.o._102|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Waller 1985_40_p.o._103-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Waller 1985_40_p.o._103|Time ",
+            "Y": "Waller 1985_40_p.o._103|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40  mg (sol)_Waller 1985_102+103\n2020-03-26 17:14"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40  mg (sol)_Waller 1988_533+534",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40  mg (sol)_Waller 1988_533+534-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40  mg (sol)_Waller 1988_533+534|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40  mg (sol)_Waller 1988_533+534-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40  mg (sol)_Waller 1988_533+534|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Waller 1988_Furosemide_40_p.o._Plasma_533-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Waller 1988_Furosemide_40_p.o._533|Time ",
+            "Y": "Waller 1988_Furosemide_40_p.o._533|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Waller 1988_Furosemide_40_p.o._Urine_534-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Waller 1988_Furosemide_40_p.o._534|Time ",
+            "Y": "Waller 1988_Furosemide_40_p.o._534|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40  mg (sol)_Waller 1988_533+534\n2020-03-26 17:14"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (sol)_Waller 1982_99",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (sol)_Waller 1982_99-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (sol)_Waller 1982_99|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (sol)_Waller 1982_99-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (sol)_Waller 1982_99|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Waller 1982_40_p.o._99-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Waller 1982_40_p.o._99|Time ",
+            "Y": "Waller 1982_40_p.o._99|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (sol)_Waller 1982_99\n2020-03-26 17:15"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 44  mg (sol)_Tilstone 1978_84",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 44  mg (sol)_Tilstone 1978_84-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 44  mg (sol)_Tilstone 1978_84|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 44  mg (sol)_Tilstone 1978_84-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 44  mg (sol)_Tilstone 1978_84|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Tilstone 1978_44_p.o._84-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Tilstone 1978_44_p.o._84|Time ",
+            "Y": "Tilstone 1978_44_p.o._84|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 44  mg (sol)_Tilstone 1978_84\n2020-03-26 17:17"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 5  mg (sol)_Stopfer 2016_167+168",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 5  mg (sol)_Stopfer 2016_167+168-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 5  mg (sol)_Stopfer 2016_167+168|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 5  mg (sol)_Stopfer 2016_167+168-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 5  mg (sol)_Stopfer 2016_167+168|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "BI2082 - reference - Mean_5_p.o._168-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Stopfer 2016 - reference - Mean_5_p.o._168|Time ",
+            "Y": "Stopfer 2016 - reference - Mean_5_p.o._168|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "BI2082 - reference - Mean_5_p.o._167-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Stopfer 2016 - reference - Mean_5_p.o._167|Time ",
+            "Y": "Stopfer 2016 - reference - Mean_5_p.o._167|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (sol), 5 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 5  mg (sol)_Boehringer 2015_167+168_TrtB\n2020-03-26 17:17"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80  mg (sol)_Kelly 1974_54",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 80  mg (sol)_Kelly 1974_54-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 80  mg (sol)_Kelly 1974_54|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 80  mg (sol)_Kelly 1974_54-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 80  mg (sol)_Kelly 1974_54|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Kelly 1974 - solution, fasted_80_p.o._54-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Kelly 1974_80_p.o._54_solution|Time ",
+            "Y": "Kelly 1974_80_p.o._54_solution|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 80  mg (sol)_Kelly 1974_54\n2020-03-26 17:18"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80  mg (sol)_Waller 1985_104+105",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 80  mg (sol)_Waller 1985_104+105-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 80  mg (sol)_Waller 1985_104+105|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 80  mg (sol)_Waller 1985_104+105-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 80  mg (sol)_Waller 1985_104+105|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Waller 1985_80_p.o._105-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Waller 1985_80_p.o._105|Time ",
+            "Y": "Waller 1985_80_p.o._105|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Waller 1985_80_p.o._104-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Waller 1985_80_p.o._104|Time ",
+            "Y": "Waller 1985_80_p.o._104|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (sol), 80 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 80  mg (sol)_Waller 1985_104+105\n2020-03-26 17:18"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 20 mg (tab)_Haegeli 2007_35+36",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 20 mg (tab)_Haegeli 2007_35+36-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 20 mg (tab)_Haegeli 2007_35+36|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 20 mg (tab)_Haegeli 2007_35+36-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 20 mg (tab)_Haegeli 2007_35+36|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Haegeli 2007_20_p.o._36-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Haegeli 2007_20_p.o._36|Time ",
+            "Y": "Haegeli 2007_20_p.o._36|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Haegeli 2007_20_p.o._35-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Haegeli 2007_20_p.o._35|Time ",
+            "Y": "Haegeli 2007_20_p.o._35|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (tab), 20 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 20 mg (tab)_Haegeli 2007_35+36\n2020-03-26 18:06"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Ballester 2015_13+14",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Ballester 2015_13+14-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Ballester 2015_13+14|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Ballester 2015_13+14-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Ballester 2015_13+14|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Ballester 2015_40_p.o._13-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Ballester 2015_40_p.o._13|Time ",
+            "Y": "Ballester 2015_40_p.o._13|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Ballester 2015_40_p.o._14-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Ballester 2015_40_p.o._14|Time ",
+            "Y": "Ballester 2015_40_p.o._14|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Ballester 2015_13+14\n2020-03-26 18:07"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Bindschedler 1997_19+20",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Bindschedler 1997_19+20-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Bindschedler 1997_19+20|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Bindschedler 1997_19+20-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Bindschedler 1997_19+20|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Bindschedler 1997_40_p.o._19-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Bindschedler 1997_40_p.o._19|Time ",
+            "Y": "Bindschedler 1997_40_p.o._19|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Bindschedler 1997_40_p.o._20-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Bindschedler 1997_40_p.o._20|Time ",
+            "Y": "Bindschedler 1997_40_p.o._20|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Bindschedler 1997_19+20-Furosemide-Lumen-Fraction of oral drug mass absorbed into mucosa",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Bindschedler 1997_19+20|Organism|Lumen|Furosemide|Fraction of oral drug mass absorbed into mucosa",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#0000FF",
+              "LegendIndex": 5,
+              "LineStyle": "Dash"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (tab), 40 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Bindschedler 1997_19+20\n2020-03-26 18:07"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Hammarlund 1984_41+42",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Hammarlund 1984_41+42-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Hammarlund 1984_41+42|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Hammarlund 1984_41+42-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Hammarlund 1984_41+42|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Hammarlund 1984 - tablet, fasted_40_p.o._41-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Hammarlund 1984_40_p.o._41|Time ",
+            "Y": "Hammarlund 1984_40_p.o._41|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Hammarlund 1984 - tablet, fasted_40_p.o._42-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Hammarlund 1984_40_p.o._42|Time ",
+            "Y": "Hammarlund 1984_40_p.o._42|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Hammarlund 1984 - tablet,fasted_41+42\n2020-03-26 18:11"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Martin 1984 - brand-name tablet_39.6_p.o._60-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Martin 1984 - brand-name tablet_39.6_p.o._60|Time ",
+            "Y": "Martin 1984 - brand-name tablet_39.6_p.o._60|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Martin 1984 - brand-name tablet_39.6_p.o._59-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Martin 1984 - brand-name tablet_39.6_p.o._59|Time ",
+            "Y": "Martin 1984 - brand-name tablet_39.6_p.o._59|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60\n2020-03-26 18:12"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Martin 1984 - generic tablet_40.3_p.o._62-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Martin 1984 - generic tablet_40.3_p.o._62|Time ",
+            "Y": "Martin 1984 - generic tablet_40.3_p.o._62|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Martin 1984 - generic tablet_40.3_p.o._61-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Martin 1984 - generic tablet_40.3_p.o._61|Time ",
+            "Y": "Martin 1984 - generic tablet_40.3_p.o._61|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (tab), 40 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62\n2020-03-26 18:12"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Rakhit 1987_63+64",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Rakhit 1987_63+64-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Rakhit 1987_63+64|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Rakhit 1987_63+64-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Rakhit 1987_63+64|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Rakhit 1987_40_p.o._64-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Rakhit 1987_40_p.o._64|Time ",
+            "Y": "Rakhit 1987_40_p.o._64|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Rakhit 1987_40_p.o._63-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Rakhit 1987_40_p.o._63|Time ",
+            "Y": "Rakhit 1987_40_p.o._63|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Rakhit 1987_63+64\n2020-03-26 18:13"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Rupp 1974_68",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Rupp 1974_68-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Rupp 1974_68|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Rupp 1974_68-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Rupp 1974_68|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Rupp 1974_40_p.o._68-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Rupp 1974_40_p.o._68|Time ",
+            "Y": "Rupp 1974_40_p.o._68|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Rupp 1974_68\n2020-03-26 18:15"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80 mg (tab)_Kelly 1974_56",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 80 mg (tab)_Kelly 1974_56-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 80 mg (tab)_Kelly 1974_56|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 80 mg (tab)_Kelly 1974_56-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 80 mg (tab)_Kelly 1974_56|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Kelly 1974 - tablet, fasted_80_p.o._56-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Kelly 1974_80_p.o._56_tablet|Time ",
+            "Y": "Kelly 1974_80_p.o._56_tablet|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 80 mg (tab)_Kelly 1974 - tablet,fasted_56\n2020-03-26 18:17"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80 mg (tab)_Shoaf 2007_74+75",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 80 mg (tab)_Shoaf 2007_74+75-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 80 mg (tab)_Shoaf 2007_74+75|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 80 mg (tab)_Shoaf 2007_74+75-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 80 mg (tab)_Shoaf 2007_74+75|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Shoaf 2007_80_p.o._74-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Shoaf 2007_80_p.o._74|Time ",
+            "Y": "Shoaf 2007_80_p.o._74|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 5,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Shoaf 2007_80_p.o._75-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Shoaf 2007_80_p.o._75|Time ",
+            "Y": "Shoaf 2007_80_p.o._75|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (tab), 80 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 80 mg (tab)_Shoaf 2007_74+75\n2020-03-26 18:19"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 40 mg (tab)_Waller 1982_98",
+      "SectionId": 331,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "%",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 40 mg (tab)_Waller 1982_98-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Waller 1982_98|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 40 mg (tab)_Waller 1982_98-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 40 mg (tab)_Waller 1982_98|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Waller 1982_40_p.o._98-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Waller 1982_40_p.o._98|Time ",
+            "Y": "Waller 1982_40_p.o._98|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab)_Waller 1982_98\n2020-03-26 18:16"
+      }
+    },
+    {
+      "Project": "Furosemide",
+      "Simulation": "p.o., 80 mg (tab)_Vree 1995_95+96",
+      "SectionId": 332,
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/ml",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "",
+            "Dimension": "Fraction",
+            "Type": "Y2",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 0.0,
+            "Max": 0.95,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Dash",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "p.o., 80 mg (tab)_Vree 1995_95+96-Furosemide-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "p.o., 80 mg (tab)_Vree 1995_95+96|Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "p.o., 80 mg (tab)_Vree 1995_95+96-Furosemide-Kidney-Urine-Fraction excreted to urine",
+            "X": "Time",
+            "Y": "p.o., 80 mg (tab)_Vree 1995_95+96|Organism|Kidney|Urine|Furosemide|Fraction excreted to urine",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 2,
+              "LineStyle": "Dash"
+            }
+          },
+          {
+            "Name": "Vree 1995_80_p.o._95-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+            "X": "Vree 1995_80_p.o._95|Time ",
+            "Y": "Vree 1995_80_p.o._95|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 4,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Vree 1995_80_p.o._96-Furosemide-Kidney-Urine-Fraction ",
+            "X": "Vree 1995_80_p.o._96|Time ",
+            "Y": "Vree 1995_80_p.o._96|ObservedData|Kidney|Urine|Furosemide|Fraction ",
+            "CurveOptions": {
+              "yAxisType": "Y2",
+              "Color": "#C0C000",
+              "LegendIndex": 5,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#00FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "Title": "Furosemide - p.o. (tab), 80 mg",
+        "OriginText": "Furosemide_03.26.2020\np.o., 80 mg (tab)_Vree 1995_95+96\n2020-03-27 08:54"
+      }
+    }
+  ],
+  "Inputs": [
+    {
+      "SectionId": 31,
+      "Path": "Inputs/Furosemide/Compound/Furosemide.md"
+    }
+  ]
+}

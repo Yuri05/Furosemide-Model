@@ -1,0 +1,80 @@
+03/10/2024 - 15:45:48
+Loading Simulations onto Qualification Workflow
+03/10/2024 - 15:46:40
+Simulations loading completed in 0.9 min
+03/10/2024 - 15:46:40
+Reporting Engine Information:
+Date: 03/10/2024 - 15:46:40
+User Information:
+Computer Name: MARIANA-ESQLABS
+User: MarianaGuimaraesSaCo
+Login: MarianaGuimaraesSaCo
+System is NOT validated
+System versions:
+R version: R version 4.3.2 (2023-10-31 ucrt)
+OSP Suite Package version: 12.1.0
+OSP Reporting Engine version: 2.2.0
+tlf version: 1.5.0
+03/10/2024 - 15:46:41
+Starting run of Qualification Workflow
+03/10/2024 - 15:46:43
+Starting run of Simulation task
+03/10/2024 - 15:46:48
+Splitting simulations for parallel run: 44 simulations split into 2 subsets
+03/10/2024 - 15:46:48
+Starting run of subset simulations
+03/10/2024 - 15:48:41
+Simulation task completed in 2 min
+03/10/2024 - 15:48:41
+Starting run of Plot Merged Goodness of Fit task
+03/10/2024 - 15:50:13
+Plot Merged Goodness of Fit task completed in 1.5 min
+03/10/2024 - 15:50:13
+Starting run of Plot Time Profiles task
+03/10/2024 - 16:09:58
+Plot Time Profiles task completed in 19.7 min
+03/10/2024 - 16:10:02
+Executing: pandoc --embed-resources --standalone --wrap=none --toc --from=markdown+tex_math_dollars+superscript+subscript+raw_attribute --reference-doc="C:/Users/MarianaGuimaraesSaCo/AppData/Local/R/win-library/4.3/ospsuite.reportingengine/extdata/reference.docx" --resource-path="C:/Users/MarianaGuimaraesSaCo/Repositories/Furosemide-Model/Evaluation/re_output" -t docx -o "C:/Users/MarianaGuimaraesSaCo/Repositories/Furosemide-Model/Evaluation/re_output/report-word.docx" "C:/Users/MarianaGuimaraesSaCo/Repositories/Furosemide-Model/Evaluation/re_output/report-word.md"
+
+03/10/2024 - 16:10:06
+Qualification Workflow completed in 23.4 min
+03/10/2024 - 16:30:40
+Loading Simulations onto Qualification Workflow
+03/10/2024 - 16:31:34
+Simulations loading completed in 0.9 min
+03/10/2024 - 16:31:35
+Reporting Engine Information:
+Date: 03/10/2024 - 16:31:34
+User Information:
+Computer Name: MARIANA-ESQLABS
+User: MarianaGuimaraesSaCo
+Login: MarianaGuimaraesSaCo
+System is NOT validated
+System versions:
+R version: R version 4.3.2 (2023-10-31 ucrt)
+OSP Suite Package version: 12.1.0
+OSP Reporting Engine version: 2.2.0
+tlf version: 1.5.0
+03/10/2024 - 16:31:35
+Starting run of Qualification Workflow
+03/10/2024 - 16:31:38
+Starting run of Simulation task
+03/10/2024 - 16:31:40
+Splitting simulations for parallel run: 44 simulations split into 2 subsets
+03/10/2024 - 16:31:40
+Starting run of subset simulations
+03/10/2024 - 16:33:03
+Simulation task completed in 1.4 min
+03/10/2024 - 16:33:03
+Starting run of Plot Merged Goodness of Fit task
+03/10/2024 - 16:34:19
+Plot Merged Goodness of Fit task completed in 1.3 min
+03/10/2024 - 16:34:19
+Starting run of Plot Time Profiles task
+03/10/2024 - 16:54:33
+Plot Time Profiles task completed in 20.2 min
+03/10/2024 - 16:54:35
+Executing: pandoc --embed-resources --standalone --wrap=none --toc --from=markdown+tex_math_dollars+superscript+subscript+raw_attribute --reference-doc="C:/Users/MarianaGuimaraesSaCo/AppData/Local/R/win-library/4.3/ospsuite.reportingengine/extdata/reference.docx" --resource-path="C:/Users/MarianaGuimaraesSaCo/Repositories/Furosemide-Model/Evaluation/re_output" -t docx -o "C:/Users/MarianaGuimaraesSaCo/Repositories/Furosemide-Model/Evaluation/re_output/report-word.docx" "C:/Users/MarianaGuimaraesSaCo/Repositories/Furosemide-Model/Evaluation/re_output/report-word.md"
+
+03/10/2024 - 16:54:37
+Qualification Workflow completed in 23 min

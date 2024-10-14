@@ -1,0 +1,760 @@
+{
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.1/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Furosemide",
+            "Path": "../../Furosemide-Model.json",
+            "BuildingBlocks": []
+        }
+    ],
+    "ObservedDataSets": [],
+    "Plots": {
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 7,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AxesSettings": {
+            "ComparisonTimeProfile": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "µg/ml",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Unit": "µg/ml",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "µg/ml",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Unit": "year(s)",
+                    "Dimension": "Age",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "AllPlots": [
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 0.5 mgkg (bolus)_Alván 1988_1",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 20 mg (bolus)_Haegeli 2007_33+34",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 20 mg (bolus)_Rosenkranz 1992_66",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 22 mg (bolus)_Tilstone 1978_83",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (2 min)_Waller 1982_97",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (3 min)_Smith 1980_78+79",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (bolus)_Andreasen 1977_9+10",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (bolus)_González 1982_32",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (bolus)_Homeida 1977_47",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (bolus)_Keller 1981_52+53",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (bolus)_Lambert 1983_58",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 80 mg (2 min)_Andreasen 1981_4",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 80 mg (2 min)_Andreasen 1983_7+8",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 80 mg (bolus)_Branch 1977_21+22",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 80 mg (bolus)_Kelly 1974_57",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 80 mg (bolus)_Rane 1978_65",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 40 mg (bolus)_Rupp 1974_67",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 20 mg (tab) q.d._FDA 2006_49",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab) q.d._FDA 2005_48",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 1  mg (sol)_Stopfer 2018_341+342",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 20  mg (sol)_Waller 1985_100+101",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40  mg (sol)_Waller 1985_102+103",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40  mg (sol)_Waller 1988_533+534",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (sol)_Waller 1982_99",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 44  mg (sol)_Tilstone 1978_84",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 5  mg (sol)_Stopfer 2016_167+168",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 80  mg (sol)_Kelly 1974_54",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 80  mg (sol)_Waller 1985_104+105",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 20 mg (tab)_Haegeli 2007_35+36",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Ballester 2015_13+14",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Bindschedler 1997_19+20",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Hammarlund 1984_41+42",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Rakhit 1987_63+64",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Rupp 1974_68",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 80 mg (tab)_Kelly 1974_56",
+                "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 80 mg (tab)_Shoaf 2007_74+75",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40 mg (tab)_Waller 1982_98",
+                "SectionId": 331
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 80 mg (tab)_Vree 1995_95+96",
+                "SectionId": 332
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Goodness of fit plot for concentration in plasma.",
+                "SectionId": 32,
+                "Artifacts": [
+                    "Plot",
+                    "GMFE",
+                    "Measure"
+                ],
+                "PlotType": "predictedVsObserved|residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "Furosemide iv (model building)",
+                        "Symbol": "Circle",
+                        "OutputMappings": [
+
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 20 mg (bolus)_Haegeli 2007_33+34",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Haegeli 2007_20_i.v._33",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (bolus)_Keller 1981_52+53",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Keller 1981_40_i.v._52",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (bolus)_Rupp 1974_67",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rupp 1974_40_i.v._67",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 80 mg (bolus)_Branch 1977_21+22",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Branch 1977_80_i.v._21",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 80 mg (bolus)_Verbeeck 1982_90+91",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Verbeeck 1982_80_i.v._90",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Furosemide oral administration (model building)",
+                        "Symbol": "Diamond",
+                        "OutputMappings": [
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 1  mg (sol)_Stopfer 2018_341+342",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Stopfer 2018 - reference - Mean_1_p.o._341",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 5  mg (sol)_Stopfer 2016_167+168",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Stopfer 2016 - reference - Mean_5_p.o._167",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (sol)_Waller 1982_99",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Waller 1982_40_p.o._99",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40  mg (sol)_Waller 1985_102+103",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Waller 1985_40_p.o._102",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40  mg (sol)_Wiebe 2020_521+522",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Wiebe 2020 - 40 mg - Mean_40_p.o._521",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Bindschedler 1997_19+20",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bindschedler 1997_40_p.o._19",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 1984 - brand-name tablet_39.6_p.o._59",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Martin 1984 - generic tablet_40.3_p.o._61",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 80 mg (tab)_Shoaf 2007_74+75",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Shoaf 2007_80_p.o._74",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab) q.d._FDA 2005_48",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "FDA 2005 _40_p.o._48",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },{
+                        "Caption": "Furosemide iv (model verification)",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 20 mg (bolus)_Rosenkranz 1992_66",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rosenkranz 1992_20_i.v._66",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 22 mg (bolus)_Tilstone 1978_83",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Tilstone 1978_22_i.v._83",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (bolus)_Andreasen 1977_9+10",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Andreasen 1977_40_i.v._9",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (bolus)_González 1982_32",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "González 1982_40_i.v._32",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (bolus)_Hammarlund 1984_39+40",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Hammarlund 1984_40_i.v._39",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (bolus)_Homeida 1977_47",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Homeida 1977_40_i.v._47",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (bolus)_Lambert 1983_58",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Lambert 1986_40_i.v._58",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (2 min)_Waller 1982_97",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Waller 1982_40_i.v._97",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 40 mg (3 min)_Smith 1980_78+79",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Smith 1980a_40_i.v._78",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 80 mg (bolus)_Kelly 1974_57",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kelly 1974_80_i.v._57",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 80 mg (bolus)_Rane 1978_65",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rane 1978_80_i.v._65",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "i.v. 80 mg (2 min)_Andreasen 1983_7+8",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Andreasen 1983_80_i.v._7",
+                                "Color": "#000000"
+                            }
+
+                        ]
+                    },{
+                        "Caption": "Furosemide oral administration (model verification)",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 20  mg (sol)_Waller 1985_100+101",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Waller 1985_20_p.o._100",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 20 mg (tab)_Haegeli 2007_35+36",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Haegeli 2007_20_p.o._35",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 20 mg (tab) q.d._FDA 2006_49",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "FDA 2006_20_p.o._49",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 20 mg (-) q.d._Vaidyanathan 2008_89",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Vaidyanathan 2008_20_p.o._89",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40  mg (sol)_Waller 1988_533+534",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Waller 1988_Furosemide_40_p.o._533",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Ballester 2015_13+14",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ballester 2015_40_p.o._13",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Hammarlund 1984_41+42",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Hammarlund 1984_40_p.o._41",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Rakhit 1987_63+64",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rakhit 1987_40_p.o._63",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 44  mg (sol)_Tilstone 1978_84",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Tilstone 1978_44_p.o._84",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 80  mg (sol)_Kelly 1974_54",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kelly 1974_80_p.o._54_solution",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 80  mg (sol)_Waller 1985_104+105",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Waller 1985_80_p.o._104",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Waller 1982_98",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Waller 1982_40_p.o._98",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 80 mg (tab)_Kelly 1974_56",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kelly 1974_80_p.o._56_tablet",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 80 mg (tab)_Vree 1995_95+96",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Vree 1995_80_p.o._95",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Furosemide",
+                                "Simulation": "p.o., 40 mg (tab)_Rupp 1974_68",
+                                "Output": "Organism|PeripheralVenousBlood|Furosemide|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rupp 1974_40_p.o._68",
+                                "Color": "#000000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ComparisonTimeProfilePlots": [],
+        "DDIRatioPlots": [],
+        "PKRatioPlots": []
+    },
+    "Inputs": [
+        {
+            "Project": "Furosemide",
+            "Name": "Furosemide",
+            "Type": "Compound",
+            "SectionId": 31
+        }
+    ],
+    "Sections": [
+        {
+            "Id": 1,
+            "Title": "Introduction",
+            "Content": "Content/Section1_Introduction.md"
+        },
+        {
+            "Id": 2,
+            "Title": "Methods",
+            "Content": "Content/Section2_Methods.md",
+            "Sections": [
+                {
+                    "Id": 21,
+                    "Content": "Content/Section2.1_Modeling_Strategy.md",
+                    "Title": "Modeling strategy"
+                },
+                {
+                    "Id": 22,
+                    "Content": "Content/Section2.2_Data.md",
+                    "Title": "Data used"
+                },
+                {
+                    "Id": 23,
+                    "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md",
+                    "Title": "Model parameters and assumptions"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Content": "Content/Section3_Results_and_Discussion.md",
+            "Title": "Results and Discussion",
+            "Sections": [
+                {
+                    "Id": 31,
+                    "Content": "Content/Input_table.md",
+                    "Title": "Furosemide final input parameters"
+                },
+                {
+                    "Id": 32,
+                    "Content": "Content/GOF_diagnostics.md",
+                    "Title": "Furosemide Diagnostics Plots"
+                },
+                {
+                    "Id": 33,
+                    "Title": "Concentration-Time Profiles",
+                    "Content": "Content/Concentration_time_profiles.md",
+                    "Sections": [
+                        {
+                            "Id": 331,
+                            "Title": "Model Building",
+                            "Content": "Content/Concentration_time_profiles_building.md"
+                        },
+                        {
+                            "Id": 332,
+                            "Title": "Model Verification",
+                            "Content": "Content/Concentration_time_profiles_verification.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Content": "Content/Section4_Conclusion.md",
+            "Title": "Conclusion"
+        },
+        {
+            "Id": 5,
+            "Content": "Content/References.md",
+            "Title": "References"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ]
+}
