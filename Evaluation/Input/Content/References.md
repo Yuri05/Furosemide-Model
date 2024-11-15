@@ -52,7 +52,13 @@
 
 **Meyer 2012** Meyer M, Schneckener S, Ludewig B, et al (2012) Using expression data for quantification of active processes in physiologically based pharmacokinetic modeling. Drug Metab Dispos 40:892–901. https://doi.org/10.1124/dmd.111.043174
 
+**Nishimura 2005** Nishimura M, Naito S (2005) Tissue-specific mRNA Expression Profiles of Human ATP-binding Cassette and Solute Carrier Transporter Superfamilies. Drug Metabolism and Pharmacokinetics 20:452–477. https://doi.org/10.2133/dmpk.20.452
+
+**Nishimura 2006** Nishimura M, Naito S (2006) Tissue-specific mRNA expression profiles of human phase I metabolizing enzymes except for cytochrome P450 and phase II metabolizing enzymes. Drug Metab Pharmacokinet 21:357–374. https://doi.org/10.2133/dmpk.21.357
+
 **Pacifici 1987** Pacifici GM, Viani A, Schulz HU, Frercks HJ (1987) Plasma protein binding of furosemide in the elderly. Eur J Clin Pharmacol 32:199–202. https://doi.org/10.1007/BF00542196
+
+**PK-Sim Ontogeny Database Version 7.3** PK-Sim Ontogeny Database Version 7.3 (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
 
 **Ponto and Schoenwald 1990** Ponto LL, Schoenwald RD (1990) Furosemide (frusemide). A pharmacokinetic/pharmacodynamic review (Part I). Clin Pharmacokinet 18:381–408. https://doi.org/10.2165/00003088-199018050-00004
 

@@ -327,12 +327,17 @@
             {
                 "Project": "Furosemide",
                 "Simulation": "p.o., 40 mg (tab)_Waller 1982_98",
-                "SectionId": 331
+                "SectionId": 332
             },
             {
                 "Project": "Furosemide",
                 "Simulation": "p.o., 80 mg (tab)_Vree 1995_95+96",
                 "SectionId": 332
+            },
+            {
+                "Project": "Furosemide",
+                "Simulation": "p.o., 40  mg (sol)_Wiebe 2020_521+522",
+                "SectionId": 331
             }
         ],
         "GOFMergedPlots": [

@@ -54,6 +54,7 @@ The following publications were used for model building (training dataset) and m
 | 40| po (sol), sd |plasma|training| [Waller 1982](#5-references)| 
 | 40| po (sol), sd |plasma, excretion into urine|training|[Waller 1985](#5-references)|
 | 40| po (sol), sd |plasma, excretion into urine|test|[Waller 1988](#5-references)|
+| 40| po (sol), sd |plasma, excretion into urine|training|[Wiebe 2020](#5-references)|
 | 40| po (tab), sd |plasma|test|[Ballester 2015](#5-references)|
 | 40| po (tab), sd |plasma|training|[Bindscheller 1997](#5-references)|
 | 40| po (tab), sd |plasma, excretion into urine|test|[Hammarlund 1984](#5-references)|

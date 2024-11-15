@@ -2,7 +2,7 @@ The PBPK model for furosemide was developed and verified with clinical pharmacok
 
 The model was built and evaluated covering data from studies including in particular
 
-* single intravenous administration and both single and multiple oral administrations (solutions and tablets).
+* single intravenous administration and both single and multiple oral administrations (solutions and tablets)
 * a dose range of 1 to 80 mg
 
 The model quantifies excretion via urine (by glomerular filtration and active transport mediated by OAT3 and MRP4) and metabolism via UGT1A9.
