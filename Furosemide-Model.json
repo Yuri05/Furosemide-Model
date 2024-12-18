@@ -70889,11 +70889,11 @@
   ],
   "Formulations": [
     {
-      "Name": "solution",
+      "Name": "Solution",
       "FormulationType": "Formulation_Dissolved"
     },
     {
-      "Name": "immediate release",
+      "Name": "Immediate release",
       "FormulationType": "Formulation_Tablet_Weibull",
       "Parameters": [
         {
@@ -72489,7 +72489,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 40 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 40 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -72557,7 +72557,7 @@
             "Name": "p.o. (sol), 40 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -72691,7 +72691,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 20 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -72757,7 +72757,7 @@
             "Name": "p.o. (tab), 20 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -72904,7 +72904,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 80 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 80 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -72970,7 +72970,7 @@
             "Name": "p.o. (tab), 80 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -73119,7 +73119,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40.3 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40.3 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -73185,7 +73185,7 @@
             "Name": "p.o. (tab), 40.3 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -73333,22 +73333,22 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -73414,7 +73414,7 @@
             "Name": "p.o. (tab), 20 mg, q.d.",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -73557,7 +73557,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 5 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 5 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -73625,7 +73625,7 @@
             "Name": "p.o. (sol), 5 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -73777,7 +73777,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 1 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 1 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -73845,7 +73845,7 @@
             "Name": "p.o. (sol), 1 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -73997,7 +73997,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 40 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 40 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -74069,7 +74069,7 @@
             "Name": "p.o. (sol), 40 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -77309,7 +77309,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 20 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 20 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -77375,7 +77375,7 @@
             "Name": "p.o. (sol), 20 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -77523,7 +77523,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 44 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 44 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -77589,7 +77589,7 @@
             "Name": "p.o. (sol), 44 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -77722,7 +77722,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 80 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 80 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -77788,7 +77788,7 @@
             "Name": "p.o. (sol), 80 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -77922,7 +77922,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 80 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 80 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -77988,7 +77988,7 @@
             "Name": "p.o. (sol), 80 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -78137,7 +78137,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40.3 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40.3 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -78205,7 +78205,7 @@
             "Name": "p.o. (tab), 40.3 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -78351,7 +78351,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -78417,7 +78417,7 @@
             "Name": "p.o. (tab), 40 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -78563,7 +78563,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -78632,7 +78632,7 @@
             "Name": "p.o. (tab), 40 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -78790,7 +78790,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -78856,7 +78856,7 @@
             "Name": "p.o. (tab), 40 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -79002,7 +79002,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -79068,7 +79068,7 @@
             "Name": "p.o. (tab), 40 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -79213,7 +79213,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -79279,7 +79279,7 @@
             "Name": "p.o. (tab), 40 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -79412,7 +79412,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -79478,7 +79478,7 @@
             "Name": "p.o. (tab), 40 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -79611,7 +79611,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 80 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 80 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -79677,7 +79677,7 @@
             "Name": "p.o. (tab), 80 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -79811,7 +79811,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 80 mg|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 80 mg|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -79879,7 +79879,7 @@
             "Name": "p.o. (tab), 80 mg",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -80056,22 +80056,22 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 20 mg, q.d.|immediate release|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 20 mg, q.d.|Immediate release|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -80137,7 +80137,7 @@
             "Name": "p.o. (tab), 20 mg, q.d.",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -80304,57 +80304,57 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|p.o. (tab), 40 mg, q.d.|immediate release|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (tab), 40 mg, q.d.|Immediate release|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -80422,7 +80422,7 @@
             "Name": "p.o. (tab), 40 mg, q.d.",
             "Formulations": [
               {
-                "Name": "immediate release",
+                "Name": "Immediate release",
                 "Key": "Formulation"
               }
             ]
@@ -80559,7 +80559,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 40 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 40 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -80625,7 +80625,7 @@
             "Name": "p.o. (sol), 40 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
@@ -80771,7 +80771,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|p.o. (sol), 40 mg|solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|p.o. (sol), 40 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -80839,7 +80839,7 @@
             "Name": "p.o. (sol), 40 mg",
             "Formulations": [
               {
-                "Name": "solution",
+                "Name": "Solution",
                 "Key": "Formulation"
               }
             ]
