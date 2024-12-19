@@ -71625,8 +71625,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - i.v. (bolus), 20 mg",
-          "OriginText": "Furosemide-Model-test\ni.v. 20 mg (bolus)_Haegeli 2007_33+34\n2024-10-16 16:03"
+          "Title": "Furosemide - i.v. (bolus), 20 mg_Haegeli 2007",
+          "OriginText": "Furosemide-Model\ni.v. 20 mg (bolus)_Haegeli 2007_33+34\n2024-10-16 16:03"
         }
       ]
     },
@@ -71819,8 +71819,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - i.v. (bolus), 40 mg",
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (bolus)_Rupp 1974_67\n2024-10-16 16:05"
+          "Title": "Furosemide - i.v. (bolus), 40 mg_Rupp 1974",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (bolus)_Rupp 1974_67\n2024-10-16 16:05"
         }
       ]
     },
@@ -72023,8 +72023,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - i.v. (bolus), 80 mg",
-          "OriginText": "Furosemide-Model-test\ni.v. 80 mg (bolus)_Branch 1977_21+22\n2024-10-16 16:06"
+          "Title": "Furosemide - i.v. (bolus), 80 mg_Branch 1977",
+          "OriginText": "Furosemide-Model\ni.v. 80 mg (bolus)_Branch 1977_21+22\n2024-10-16 16:06"
         }
       ]
     },
@@ -72246,7 +72246,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - i.v. (bolus), 80 mg",
+          "Title": "Furosemide - i.v. (bolus), 80 mg_Verbeeck 1982",
           "OriginText": "Furosemide-Model\ni.v. 80 mg (bolus)_Verbeeck 1982_90+91\n2024-11-15 18:00"
         }
       ]
@@ -72451,8 +72451,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - i.v. (bolus), 40 mg",
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (bolus)_Keller 1981_52+53\n2024-10-16 16:05"
+          "Title": "Furosemide - i.v. (bolus), 40 mg_Kelly 1981",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (bolus)_Keller 1981_52+53\n2024-10-16 16:05"
         }
       ]
     },
@@ -72653,7 +72653,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (sol)_Waller 1982_99\n2024-10-16 16:08"
+          "Title": "Furosemide - p.o. (sol), 40 mg_Waller 1982",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (sol)_Waller 1982_99\n2024-10-16 16:08"
         }
       ]
     },
@@ -72865,8 +72866,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (tab), 20 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 20 mg (tab)_Haegeli 2007_35+36\n2024-10-16 16:09"
+          "Title": "Furosemide - p.o. (tab), 20 mg_Haegeli 2007",
+          "OriginText": "Furosemide-Model\np.o., 20 mg (tab)_Haegeli 2007_35+36\n2024-10-16 16:09"
         }
       ]
     },
@@ -73080,8 +73081,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (tab), 80 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 80 mg (tab)_Vree 1995_95+96\n2024-10-16 16:11"
+          "Title": "Furosemide - p.o. (tab), 80 mg_Vree 1995",
+          "OriginText": "Furosemide-Model\np.o., 80 mg (tab)_Vree 1995_95+96\n2024-10-16 16:11"
         }
       ]
     },
@@ -73295,8 +73296,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (tab), 40 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62\n2024-10-16 16:10"
+          "Title": "Furosemide - p.o. (tab), 40 mg_Martin 1984",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Martin 1984 - generic tablet_61+62\n2024-10-16 16:10"
         }
       ]
     },
@@ -73516,6 +73517,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
+          "Title": "Furosemide - p.o. (-), 20 mg_Vaidyanathan 2008",
           "OriginText": "Furosemide_03.26.2020\np.o., 20 mg (-) q.d._Vaidyanathan 2008_89\n2020-03-26 17:23"
         }
       ]
@@ -73735,8 +73737,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (sol), 5 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 5  mg (sol)_Stopfer 2016_167+168\n2024-10-16 16:08"
+          "Title": "Furosemide - p.o. (sol), 5 mg_Stopfer 2016",
+          "OriginText": "Furosemide-Model\np.o., 5  mg (sol)_Stopfer 2016_167+168\n2024-10-16 16:08"
         }
       ]
     },
@@ -73914,7 +73916,7 @@
               }
             },
             {
-              "Name": "BI2096 - reference - Mean_1_p.o._342-Furosemide-Kidney-Urine-Fraction ",
+              "Name": "Stopfer 2018 - reference - Mean_1_p.o._342-Furosemide-Kidney-Urine-Fraction ",
               "X": "Stopfer 2018 - reference - Mean_1_p.o._342|Time ",
               "Y": "Stopfer 2018 - reference - Mean_1_p.o._342|ObservedData|Kidney|Urine|Furosemide|Fraction ",
               "CurveOptions": {
@@ -73926,7 +73928,7 @@
               }
             },
             {
-              "Name": "BI2096 - reference - Mean_1_p.o._341-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
+              "Name": "Stopfer 2018 - reference - Mean_1_p.o._341-Furosemide-Peripheral Venous Blood-Plasma-Conc ",
               "X": "Stopfer 2018 - reference - Mean_1_p.o._341|Time ",
               "Y": "Stopfer 2018 - reference - Mean_1_p.o._341|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|Conc ",
               "CurveOptions": {
@@ -73955,8 +73957,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (sol), 1 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 1  mg (sol)_Stopfer 2018_341+342\n2024-10-16 16:07"
+          "Title": "Furosemide - p.o. (sol), 1 mg_Stopfer 2018",
+          "OriginText": "Furosemide-Model\np.o., 1  mg (sol)_Stopfer 2018_341+342\n2024-10-16 16:07"
         }
       ]
     },
@@ -74138,7 +74140,7 @@
               }
             },
             {
-              "Name": "BI2100 - 40 mg - Mean_40_p.o._522-Furosemide-Kidney-Urine-MEANFRACTION",
+              "Name": "Wiebe 2020 - 40 mg - Mean_40_p.o._522-Furosemide-Kidney-Urine-MEANFRACTION",
               "X": "Wiebe 2020 - 40 mg - Mean_40_p.o._522|TIME",
               "Y": "Wiebe 2020 - 40 mg - Mean_40_p.o._522|ObservedData|Kidney|Urine|Furosemide|MEANFRACTION",
               "CurveOptions": {
@@ -74150,7 +74152,7 @@
               }
             },
             {
-              "Name": "BI2100 - 40 mg - Mean_40_p.o._521 1-Furosemide-Peripheral Venous Blood-Plasma-MEANCONC",
+              "Name": "Wiebe 2020 - 40 mg - Mean_40_p.o._521-Furosemide-Peripheral Venous Blood-Plasma-MEANCONC",
               "X": "Wiebe 2020 - 40 mg - Mean_40_p.o._521|ACTPTN",
               "Y": "Wiebe 2020 - 40 mg - Mean_40_p.o._521|ObservedData|Peripheral Venous Blood|Plasma|Furosemide|MEANCONC",
               "CurveOptions": {
@@ -74179,8 +74181,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (sol), 40 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 40  mg (sol)_Wiebe 2020_521+522\n2024-10-16 16:07"
+          "Title": "Furosemide - p.o. (sol), 40 mg_Wiebe 2020",
+          "OriginText": "Furosemide-Model\np.o., 40  mg (sol)_Wiebe 2020_521+522\n2024-10-16 16:07"
         }
       ]
     },
@@ -74381,6 +74383,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
+          "Title": "Furosemide - i.v. (bolus), 0.5 mgkg_Alván 1988",
           "OriginText": "Furosemide_03.26.2020\ni.v. 0.5 mgkg (bolus)_Alván 1988_1\n2020-03-26 17:06"
         }
       ]
@@ -74618,7 +74621,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 22 mg (bolus)_Tilstone 1978_83\n2024-10-16 16:02"
+          "Title": "Furosemide - i.v. (bolus), 22 mg_Tilstone 1978",
+          "OriginText": "Furosemide-Model\ni.v. 22 mg (bolus)_Tilstone 1978_83\n2024-10-16 16:02"
         }
       ]
     },
@@ -74822,8 +74826,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - i.v. (bolus), 40 mg",
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (bolus)_Andreasen 1977_9+10\n2024-10-16 16:03"
+          "Title": "Furosemide - i.v. (bolus), 40 mg_Andreasen 1977",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (bolus)_Andreasen 1977_9+10\n2024-10-16 16:03"
         }
       ]
     },
@@ -75014,7 +75018,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - i.v. (bolus), 20 mg",
+          "Title": "Furosemide - i.v. (bolus), 20 mg_Rosenkranz 1992",
           "OriginText": "Furosemide_03.26.2020\ni.v. 20 mg (bolus)_Rosenkranz 1992_66\n2020-03-26 16:03"
         }
       ]
@@ -75218,7 +75222,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (bolus)_González 1982_32\n2024-10-16 16:04"
+          "Title": "Furosemide - i.v. (bolus), 40 mg_González 1982",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (bolus)_González 1982_32\n2024-10-16 16:04"
         }
       ]
     },
@@ -75420,7 +75425,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (bolus)_Hammarlund 1984_39+40\n2024-10-16 16:04"
+          "Title": "Furosemide - i.v. (bolus), 40 mg_Hammarlund 1984",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (bolus)_Hammarlund 1984_39+40\n2024-10-16 16:04"
         }
       ]
     },
@@ -75609,7 +75615,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (bolus)_Homeida 1977_47\n2024-10-16 16:04"
+          "Title": "Furosemide - i.v. (bolus), 40 mg_Homeida 1977",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (bolus)_Homeida 1977_47\n2024-10-16 16:04"
         }
       ]
     },
@@ -75812,7 +75819,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (bolus)_Lambert 1983_58\n2024-10-16 16:05"
+          "Title": "Furosemide - i.v. (bolus), 40 mg_Lambert 1983",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (bolus)_Lambert 1983_58\n2024-10-16 16:05"
         }
       ]
     },
@@ -76020,6 +76028,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
+          "Title": "Furosemide - i.v. (2 min), 40 mg_Waller 1982",
           "OriginText": "Furosemide_03.26.2020\ni.v. 40 mg (2 min)_Waller 1982_97\n2020-03-26 16:04"
         }
       ]
@@ -76226,7 +76235,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (3 min)_Smith 1980_82\n2024-10-16 16:03"
+          "Title": "Furosemide - i.v. (3 min), 40 mg_Smith 1980b",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (3 min)_Smith 1980_82\n2024-10-16 16:03"
         }
       ]
     },
@@ -76444,7 +76454,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 40 mg (3 min)_Smith 1980_78+79\n2024-10-16 16:03"
+          "Title": "Furosemide - i.v. (3min), 40 mg_Smith 1980a",
+          "OriginText": "Furosemide-Model\ni.v. 40 mg (3 min)_Smith 1980_78+79\n2024-10-16 16:03"
         }
       ]
     },
@@ -76644,7 +76655,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 80 mg (bolus)_Kelly 1974_57\n2024-10-16 16:06"
+          "Title": "Furosemide - i.v. (bolus), 80 mg_Kelly 1974",
+          "OriginText": "Furosemide-Model\ni.v. 80 mg (bolus)_Kelly 1974_57\n2024-10-16 16:06"
         }
       ]
     },
@@ -76847,7 +76859,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 80 mg (bolus)_Rane 1978_65\n2024-10-16 16:06"
+          "Title": "Furosemide - i.v. (bolus), 80 mg_Rane 1978",
+          "OriginText": "Furosemide-Model\ni.v. 80 mg (bolus)_Rane 1978_65\n2024-10-16 16:06"
         }
       ]
     },
@@ -77053,7 +77066,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\ni.v. 80 mg (2 min)_Andreasen 1981_4\n2024-10-16 16:05"
+          "Title": "Furosemide - i.v. (2 min), 80 mg_Andreasen 1981",
+          "OriginText": "Furosemide-Model\ni.v. 80 mg (2 min)_Andreasen 1981_4\n2024-10-16 16:05"
         }
       ]
     },
@@ -77271,6 +77285,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
+          "Title": "Furosemide - i.v. (bolus), 80 mg_Andreasen 1983",
           "OriginText": "Furosemide-Model-V11 Optimized\ni.v. 80 mg (2 min)_Andreasen 1983_7+8\n2024-11-15 16:38"
         }
       ]
@@ -77485,8 +77500,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (sol), 20 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 20  mg (sol)_Waller 1985_100+101\n2024-10-16 16:07"
+          "Title": "Furosemide - p.o. (sol), 20 mg_Waller 1985",
+          "OriginText": "Furosemide-Model\np.o., 20  mg (sol)_Waller 1985_100+101\n2024-10-16 16:07"
         }
       ]
     },
@@ -77685,6 +77700,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
+          "Title": "Furosemide - p.o. (sol), 44 mg_Tilstone 1978",
           "OriginText": "Furosemide_03.26.2020\np.o., 44  mg (sol)_Tilstone 1978_84\n2020-03-26 17:17"
         }
       ]
@@ -77884,7 +77900,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 80  mg (sol)_Kelly 1974_54\n2024-10-16 16:08"
+          "Title": "Furosemide - p.o. (sol), 80 mg_Kelly 1974",
+          "OriginText": "Furosemide-Model\np.o., 80  mg (sol)_Kelly 1974_54\n2024-10-16 16:08"
         }
       ]
     },
@@ -78098,8 +78115,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (sol), 80 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 80  mg (sol)_Waller 1985_104+105\n2024-10-16 16:09"
+          "Title": "Furosemide - p.o. (sol), 80 mg_Waller 1985",
+          "OriginText": "Furosemide-Model\np.o., 80  mg (sol)_Waller 1985_104+105\n2024-10-16 16:09"
         }
       ]
     },
@@ -78313,7 +78330,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60\n2024-10-16 16:09"
+          "Title": "Furosemide - p.o. (tab), 40 mg_Martin 1984",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Martin 1984 - brand name tablet_59+60\n2024-10-16 16:09"
         }
       ]
     },
@@ -78525,7 +78543,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Ballester 2015_13+14\n2024-10-16 16:09"
+          "Title": "Furosemide - p.o. (tab) 40 mg_Ballester 2015",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Ballester 2015_13+14\n2024-10-16 16:09"
         }
       ]
     },
@@ -78751,8 +78770,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (tab), 40 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Bindschedler 1997_19+20\n2024-10-16 16:09"
+          "Title": "Furosemide - p.o. (tab), 40 mg_Bindschedler 1997",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Bindschedler 1997_19+20\n2024-10-16 16:09"
         }
       ]
     },
@@ -78964,7 +78983,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Hammarlund 1984_41+42\n2024-10-16 16:09"
+          "Title": "Furosemide - p.o. (tab), 40 mg_Hammarlund 1984",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Hammarlund 1984_41+42\n2024-10-16 16:09"
         }
       ]
     },
@@ -79176,7 +79196,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Rakhit 1987_63+64\n2024-10-16 16:10"
+          "Title": "Furosemide - p.o. (tab), 40 mg_Rahkit 1987",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Rakhit 1987_63+64\n2024-10-16 16:10"
         }
       ]
     },
@@ -79375,7 +79396,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Rupp 1974_68\n2024-10-16 16:10"
+          "Title": "Furosemide - p.o. (tab), 40 mg_Rupp 1974",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Rupp 1974_68\n2024-10-16 16:10"
         }
       ]
     },
@@ -79574,7 +79596,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40 mg (tab)_Waller 1982_98\n2024-10-16 16:10"
+          "Title": "Furosemide - p.o. (tab), 40 mg_Waller 1982",
+          "OriginText": "Furosemide-Model\np.o., 40 mg (tab)_Waller 1982_98\n2024-10-16 16:10"
         }
       ]
     },
@@ -79773,7 +79796,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 80 mg (tab)_Kelly 1974_56\n2024-10-16 16:10"
+          "Title": "Furosemide - p.o. (tab), 80 mg_Kelly 1974",
+          "OriginText": "Furosemide-Model\np.o., 80 mg (tab)_Kelly 1974_56\n2024-10-16 16:10"
         }
       ]
     },
@@ -79987,8 +80011,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (tab), 80 mg",
-          "OriginText": "Furosemide-Model-test\np.o., 80 mg (tab)_Shoaf 2007_74+75\n2024-10-16 16:10"
+          "Title": "Furosemide - p.o. (tab), 80 mg_Shoaf 2007",
+          "OriginText": "Furosemide-Model\np.o., 80 mg (tab)_Shoaf 2007_74+75\n2024-10-16 16:10"
         }
       ]
     },
@@ -80235,7 +80259,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (tab), 20 mg q.d.",
+          "Title": "Furosemide - p.o. (tab), 20 mg q.d._FDA 2006",
           "OriginText": "Furosemide_03.26.2020\np.o., 20 mg (tab) q.d._FDA 2006 - NDA 21-985_49\n2020-03-26 17:24"
         }
       ]
@@ -80520,7 +80544,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Furosemide - p.o. (tab), 40 mg q.d.",
+          "Title": "Furosemide - p.o. (tab), 40 mg q.d._FDA 2005",
           "OriginText": "Furosemide_03.26.2020\np.o., 40 mg (tab) q.d._FDA 2005 - NDA 21-742_48\n2020-03-26 18:05"
         }
       ]
@@ -80733,7 +80757,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40  mg (sol)_Waller 1988_533+534\n2024-10-16 16:07"
+          "Title": "Furosemide - p.o. (sol), 40 mg_Waller 1982",
+          "OriginText": "Furosemide-Model\np.o., 40  mg (sol)_Waller 1988_533+534\n2024-10-16 16:07"
         }
       ]
     },
@@ -80947,7 +80972,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Furosemide-Model-test\np.o., 40  mg (sol)_Waller 1985_102+103\n2024-10-16 16:07"
+          "Title": "Furosemide - p.o. (sol), 40 mg_Waller 1985",
+          "OriginText": "Furosemide-Model\np.o., 40  mg (sol)_Waller 1985_102+103\n2024-10-16 16:07"
         }
       ]
     }
